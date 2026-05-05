@@ -1,0 +1,44 @@
+Fennex — Company Overview and Product Guide
+
+About Fennex
+Fennex is a UK-based, award-winning industrial software company specializing in cloud-based digital solutions for safety, risk management, and compliance within high-risk industries, particularly energy and renewables.
+
+Founded: 2016
+Headquarters: Aberdeen, UK
+Focus: Offshore oil and gas, wind energy sectors
+Approach: AI-powered tools and real-time data analytics to transform manual safety processes into automated digital workflows
+
+Mission Statement (Adrian Brown, Founder and Managing Director):
+"At Fennex, we set out to reimagine how complex offshore operations manage safety, risk and compliance. With deep industry experience and a passion for innovation, our team is committed to delivering technology that doesn't just digitize processes — but improves outcomes."
+
+Goal:
+Fennex creates data-driven solutions to make industries safer, more efficient, and smarter.
+
+Solution Areas:
+1. Health and Safety
+2. Risk Management
+3. Compliance and Assurance
+
+Products Provided by Fennex:
+
+1. FennexSafe™
+FennexSafe simplifies environmental, health, safety and assurance processes in one digital suite, reducing complexity, minimizing risk, and fostering a proactive safety culture across the organization.
+
+2. BBSS™ (Behavior-Based Safety Solution)
+BBSS is a data-driven, AI-powered safety solution that transforms safety observation data into real-time intelligence for early risk detection, improved reporting, and proactive decision making to prevent incidents.
+
+3. Risk Management Tool
+A cloud-based platform that unifies all types of organizational risk into a single, intelligent system — enabling consistent, real-time, and compliant risk governance across high-risk and regulated industries.
+
+4. Audit and Inspections
+Moves organizations from reactive, inconsistent assurance practices to proactive, transparent, and efficient compliance management.
+
+5. AI Predictive Safety
+An AI-powered predictive safety tool that transforms data into foresight — anticipating incidents, enabling early intervention, and protecting before risks escalate.
+Tagline: Predict. Prevent. Protect.
+
+6. WindSafe™
+A unified, data-driven platform that empowers wind operators with full visibility and control across HSEQ (Health, Safety, Environment, Quality), enabling safer operations, stronger compliance, and better outcomes.
+
+Relationship with 366Pi Technologies:
+Fennex is an important client for 366Pi Technologies. 366Pi works with Fennex on software development, system management, updates, scaling, and security.

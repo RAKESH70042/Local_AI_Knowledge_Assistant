@@ -1,0 +1,39 @@
+[
+  {
+    "question": "What is this assistant used for?",
+    "answer": "This AI Knowledge Assistant is designed to be a small but functional tool that can read and understand internal content, answer questions about it, and provide references to where the answers were fou",
+    "sources": [
+      "20260423_080414_AI Roadmap Task.pdf",
+      "20260424_100403_analyze-data.docx"
+    ],
+    "latency": 15.92,
+    "recall_at_k": 1.0,
+    "citation_coverage": 0.0,
+    "answer_grounding": 1.0,
+    "keyword_hit": 0.67
+  },
+  {
+    "question": "What file types are supported?",
+    "answer": "Git supports most common text files, including:\n\n1. All plain text files (`.txt`, `.md`, `.asciidoc` etc.) \n2. Binary files like executables, scripts, and images.\n3. Git-specific files such as `*.gita",
+    "sources": [
+      "20260429_075603_progit.pdf"
+    ],
+    "latency": 26.19,
+    "recall_at_k": 1.0,
+    "citation_coverage": 0.0,
+    "answer_grounding": 1.0,
+    "keyword_hit": 0.25
+  },
+  {
+    "question": "How do I re-index documents?",
+    "answer": "To reindex documents in this context, you can use a combination of `grep`, `sort`, and `perl` commands to process files efficiently. Here's a step-by-step guide based on the information provided:\n\n1. ",
+    "sources": [
+      "20260429_075603_progit.pdf"
+    ],
+    "latency": 58.55,
+    "recall_at_k": 1.0,
+    "citation_coverage": 0.0,
+    "answer_grounding": 1.0,
+    "keyword_hit": 0.67
+  }
+]

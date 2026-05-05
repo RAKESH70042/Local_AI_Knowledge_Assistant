@@ -1,0 +1,38 @@
+366Pi Technologies — Internal Knowledge FAQ
+
+Q: What does 366Pi Technologies do?
+A: 366Pi Technologies is a software development company that works with clients across multiple industries. Key clients include Fennex (industrial safety software) and products like FloCard (digital cards) and Kid Care (pediatric healthcare platform).
+
+Q: What is our relationship with Fennex?
+A: Fennex is an important client for 366Pi Technologies. We work with them on software development, system management, updates, scaling, and security. Fennex specializes in cloud-based digital solutions for safety, risk management, and compliance in high-risk industries.
+
+Q: What products does 366Pi work on?
+A: 366Pi works on several products including:
+- Fennex platform (FennexSafe, BBSS, Risk Management, WindSafe)
+- FloCard (digital visiting card solution)
+- Kid Care (pediatric healthcare platform)
+- SharePoint-based internal tools and workflows
+
+Q: What is SharePoint used for internally?
+A: SharePoint is used for document storage, team collaboration, workflows, and project management. Common use cases include employee onboarding, document approval workflows, and project collaboration hubs.
+
+Q: How do we handle document approvals?
+A: Document approvals are managed through SharePoint workflows. A document is uploaded, which triggers an approval flow. The manager reviews and approves or rejects it. Notifications are sent automatically.
+
+Q: What is the SDG 2030 initiative related to FloCard?
+A: FloCard aligns with the United Nations Sustainable Development Goals (SDG 2030) by replacing plastic and paper visiting cards with eco-friendly digital alternatives. The company also runs the Tree Planters initiative to increase green cover and reduce carbon impact.
+
+Q: What technology stack does Fennex use?
+A: Fennex uses AI-powered tools and real-time data analytics. Their platform includes products like BBSS (behavior-based safety solution using AI) and AI Predictive Safety tools that transform data into foresight to prevent incidents.
+
+Q: What modules does Kid Care have?
+A: Kid Care has three main modules:
+1. Parent Module — health tracking, appointments, teleconsultation
+2. Caregiver Module — patient data, EHR integration, prescriptions
+3. Pediatrician Module — diagnosis, telemedicine, vaccination tracking
+
+Q: When was Fennex founded?
+A: Fennex was founded in 2016 and is headquartered in Aberdeen, UK.
+
+Q: What industries does Fennex serve?
+A: Fennex primarily serves the offshore oil and gas and wind energy sectors, focusing on safety, risk management, and compliance in high-risk environments.

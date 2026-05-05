@@ -1,0 +1,35 @@
+{"timestamp": "2026-04-23T05:55:53.451647Z", "query": "Summarize the document", "latency_ms": 4674.9, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T05:56:34.286543Z", "query": "Summarize a document", "latency_ms": 1520.7, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T05:57:08.007629Z", "query": "Extract key info", "latency_ms": 1570.3, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T05:57:18.605726Z", "query": "Answer questions", "latency_ms": 2243.0, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T05:57:28.164917Z", "query": "Analyze data", "latency_ms": 4951.7, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T05:58:25.007791Z", "query": "extract word", "latency_ms": 294.3, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:22:16.383849Z", "query": "Answer questions", "latency_ms": 3119.8, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:25:04.935834Z", "query": "Summarize a document", "latency_ms": 1557.1, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:34:17.651848Z", "query": "extract text>", "latency_ms": 3378.8, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:35:50.141008Z", "query": "[File uploaded]", "latency_ms": 1578.3, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:36:36.881164Z", "query": "[File uploaded]", "latency_ms": 2193.1, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T06:38:28.111575Z", "query": "[File uploaded]", "latency_ms": 1585.4, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T07:20:16.210829Z", "query": "Summarize a document", "latency_ms": 5467.5, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T08:04:33.934224Z", "query": "Extract Text", "latency_ms": 3086.7, "sources": ["test.txt"], "chunks": []}
+{"timestamp": "2026-04-23T08:45:43.785187Z", "query": "What is the objective of the AI Knowledge Assistant project?", "latency_ms": 11510.8, "sources": ["20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-23T08:46:25.460516Z", "query": "extract text", "latency_ms": 12062.3, "sources": ["20260423_084604_requirements.txt", "20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-23T08:48:00.225541Z", "query": "Summarize a document", "latency_ms": 11072.4, "sources": ["20260423_080414_AI Roadmap Task.pdf", "20260423_084604_requirements.txt"], "chunks": []}
+{"timestamp": "2026-04-23T08:58:00.463715Z", "query": "Summarize a document DSE-2", "latency_ms": 13769.7, "sources": ["20260423_080414_AI Roadmap Task.pdf", "20260423_084604_requirements.txt"], "chunks": []}
+{"timestamp": "2026-04-23T09:00:44.424285Z", "query": "Summarize a document", "latency_ms": 10565.7, "sources": ["20260423_080414_AI Roadmap Task.pdf", "20260423_084604_requirements.txt"], "chunks": []}
+{"timestamp": "2026-04-23T09:03:47.251804Z", "query": "tell me about this file?", "latency_ms": 18860.4, "sources": ["20260423_084604_requirements.txt", "20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-24T06:18:27.317664Z", "query": "Summarize a document", "latency_ms": 16408.6, "sources": ["20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-24T06:30:35.006275Z", "query": "[File uploaded]", "latency_ms": 13493.6, "sources": ["20260423_080414_AI Roadmap Task.pdf", "20260424_063006_Document 4.docx"], "chunks": []}
+{"timestamp": "2026-04-24T06:40:36.462976Z", "query": "kid overview?", "latency_ms": 169.3, "sources": [], "chunks": []}
+{"timestamp": "2026-04-24T06:40:45.484022Z", "query": "kidcare", "latency_ms": 42.2, "sources": [], "chunks": []}
+{"timestamp": "2026-04-24T06:54:08.092585Z", "query": "KidCare", "latency_ms": 14112.0, "sources": ["Kid Care\u00a0\u2013 Overview.odt", "20260423_080414_AI Roadmap Task.pdf", "FloCard Intro.odt"], "chunks": []}
+{"timestamp": "2026-04-24T06:54:53.400653Z", "query": "Fennex", "latency_ms": 13217.1, "sources": ["Fennex Overview.odt", "20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-24T06:55:30.247629Z", "query": "Analyze data", "latency_ms": 13358.1, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"], "chunks": []}
+{"timestamp": "2026-04-24T06:56:22.950796Z", "query": "Flocard", "latency_ms": 16469.3, "sources": ["FloCard Intro.odt", "Fennex Overview.odt", "20260423_080414_AI Roadmap Task.pdf"], "chunks": []}
+{"timestamp": "2026-04-24T07:40:53.084362Z", "query": "kid care", "latency_ms": 10982.5, "sources": ["Kid Care\u00a0\u2013 Overview.odt", "FloCard Intro.odt", "20260423_080414_AI Roadmap Task.pdf"], "chunks": ["Kid Care\u00a0\u2013 Overview.odt", "FloCard Intro.odt", "20260423_080414_AI Roadmap Task.pdf"]}
+{"timestamp": "2026-04-24T07:50:48.838421Z", "query": "Summarize a document", "latency_ms": 18858.6, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Basics of SharePoint.odt"], "chunks": ["20260423_080414_AI Roadmap Task.pdf", "Basics of SharePoint.odt"]}
+{"timestamp": "2026-04-24T07:51:12.114272Z", "query": "Extract key info", "latency_ms": 17019.6, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"], "chunks": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"]}
+{"timestamp": "2026-04-24T07:51:48.863675Z", "query": "Analyze data", "latency_ms": 19200.2, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"], "chunks": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"]}
+{"timestamp": "2026-04-24T08:03:18.148001Z", "query": "Summarize a document", "latency_ms": 13125.0, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Basics of SharePoint.odt"], "chunks": ["20260423_080414_AI Roadmap Task.pdf", "Basics of SharePoint.odt"]}
+{"timestamp": "2026-04-24T08:56:34.631287Z", "query": "When was Acme Corp founded and where?", "latency_ms": 13834.3, "sources": ["Fennex Overview.odt", "20260423_080414_AI Roadmap Task.pdf", "FloCard Intro.odt"], "chunks": ["Fennex Overview.odt", "20260423_080414_AI Roadmap Task.pdf", "FloCard Intro.odt"]}
+{"timestamp": "2026-04-24T09:18:05.749251Z", "query": "Analyze data", "latency_ms": 25447.2, "sources": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"], "chunks": ["20260423_080414_AI Roadmap Task.pdf", "Fennex Overview.odt"]}

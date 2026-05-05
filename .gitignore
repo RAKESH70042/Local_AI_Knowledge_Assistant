@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment — NEVER commit this
+.env
+
+# Data
+backend/data/chroma_db/
+backend/data/*.db
+backend/data/*.docx
+backend/data/*.xlsx
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

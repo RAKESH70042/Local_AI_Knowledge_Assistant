@@ -1,0 +1,32 @@
+# ── Web Framework ─────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+
+# ── Local AI ──────────────────────────────────
+ollama
+
+# ── Embeddings ────────────────────────────────
+sentence-transformers
+
+# ── Vector Database ───────────────────────────
+chromadb
+
+# ── File Parsing ──────────────────────────────
+pymupdf
+pdfplumber
+docx2txt
+pandas
+unstructured
+
+# ── Export ────────────────────────────────────
+python-docx
+openpyxl
+
+# ── Utilities ─────────────────────────────────
+python-dotenv
+loguru
+# ── Export ────────────────────────────────────────────────
+python-docx
+xlsxwriter
+matplotlib

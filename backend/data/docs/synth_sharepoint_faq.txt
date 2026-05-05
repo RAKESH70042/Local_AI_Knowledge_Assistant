@@ -1,0 +1,48 @@
+SharePoint Basics — Frequently Asked Questions
+
+Q: What is Microsoft SharePoint?
+A: Microsoft SharePoint is a web-based platform used by organizations to store, organize, share, and access information securely. It is part of the Microsoft 365 ecosystem and integrates with tools like Word, Excel, Teams, and OneDrive.
+
+Q: Is SharePoint cloud-based?
+A: Yes. SharePoint Online is a cloud-based service hosted by Microsoft. Businesses subscribe to a Microsoft 365 plan or the standalone SharePoint Online service instead of installing it on their own servers.
+
+Q: What can employees do with SharePoint?
+A: With SharePoint, employees can:
+- Build intranet sites and create pages, document libraries, and lists
+- Add web parts to customize content
+- Show important visuals, news, and updates with team or communication sites
+- Discover, follow, and search for sites, files, and people across the company
+- Manage daily routines with workflows, forms, and lists
+- Sync and store files in the cloud so anyone can securely work together
+- Catch up on news on the go with the mobile app
+
+Q: What is a Document Library in SharePoint?
+A: A document library provides a secure place to store files where employees can find them easily, work on them together, and access them from any device at any time. Files can be organized in folders and moved by dragging and dropping.
+
+Q: What is a SharePoint Site?
+A: A SharePoint site is a web-based, secure workspace within Microsoft 365 used to store, organize, share, and collaborate on information from any device. It acts as a central hub for teams to co-author documents, manage lists, and share news.
+
+Q: What are SharePoint Workflows?
+A: SharePoint workflows are pre-programmed mini applications that streamline and automate business processes such as collecting signatures, feedback, approvals, or tracking the status of routine procedures.
+
+Examples of workflows:
+- Document approval flows
+- Leave request approvals
+- Notification triggers
+
+Q: What are real enterprise use cases for SharePoint?
+
+1. Employee Onboarding System
+   New hire documents are stored in a library. An automated workflow sends tasks to HR and the manager, resulting in faster and structured onboarding.
+
+2. Document Approval Workflow
+   Uploading a document triggers an approval flow. The manager reviews and approves or rejects it. Notifications are sent automatically, eliminating email chaos.
+
+3. Project Collaboration Hub
+   Each project gets its own SharePoint site with files, timelines, and updates in one place. Team members collaborate in real-time for improved coordination.
+
+Q: Which devices support SharePoint?
+A: SharePoint works on PC, Mac, and mobile devices.
+
+Q: How does SharePoint integrate with Microsoft 365?
+A: SharePoint integrates natively with Word, Excel, Teams, and OneDrive, making it easy to co-author documents and share information across the Microsoft ecosystem.
