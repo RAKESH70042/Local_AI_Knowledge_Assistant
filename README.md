@@ -1,5 +1,3 @@
-# Ai_2
-
 # 🤖 Local AI Knowledge Assistant
 
 Ask questions about your own documents — everything runs **100% on your PC**.  
